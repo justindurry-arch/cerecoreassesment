@@ -1,4 +1,4 @@
-# Logic App Evaluation Exam — Customer Data Validation
+# Logic App Evaluation — Customer Data Validation
 
 ## Overview
 This project demonstrates an **Azure Logic App (Standard)** workflow that integrates with a custom **.NET assembly** for customer data validation.  
